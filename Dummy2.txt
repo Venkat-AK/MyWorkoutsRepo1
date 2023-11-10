@@ -1,1 +1,2 @@
-dummy file 2 created
+DummyFile2.txt created and added in repo
+Content modified.
